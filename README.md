@@ -1,5 +1,17 @@
 # 💫 About Me:
-👋 Hey there! I'm Oussama Taright,<br>a passionate Front-End Developer 🎨 who is on an exciting journey to becoming a Full-Stack Developer 🚀.<br><br>💻 About Me:<br>I love bringing ideas to life with clean, interactive, and responsive web designs. My goal is to build seamless user experiences while mastering the backend to create fully functional, scalable applications.<br><br>I thrive on learning, building, and sharing knowledge, and I'm always excited to explore new technologies that push my skills further.<br><br>🔍 What I'm Looking For<br>Opportunities to collaborate with developers and grow together<br><br>Hands-on experience with backend technologies to level up my skills<br><br>Contributing to open-source projects and learning from real-world applications<br><br>🌱 what is the next step?:<br>Backend Development: Node.js, Express, and databases (MongoDB & SQL)<br><br>API Development: REST & GraphQL<br><br>Authentication & Security: JWT, OAuth, and best practices<br><br>DevOps & Deployment: Docker, CI/CD, and cloud platforms<br><br>💬 Ask Me Anything!<br>Need help with HTML, CSS, JavaScript,  or front-end performance optimization? I’m happy to share what I know!<br><br>⚡ Fun Fact (Motivational Edition!)<br>I started as a front-end developer with zero knowledge of backend development, but that didn’t stop me. Every day, I take one step closer to mastering full-stack development.<br>🚀 The secret? Keep pushing, keep learning, and never settle. If I can do it, so can you and الحمدلله على كل شيء
+# 👋 Hey there! I'm Oussama Taright,
+<br>a passionate Front-End Developer 🎨 who is on an exciting journey to becoming a Full-Stack Developer 🚀.<br><br>
+# 💻 About Me:
+<br>I love bringing ideas to life with clean, interactive, and responsive web designs. My goal is to build seamless user experiences while mastering the backend to create fully functional, scalable applications.<br><br>I thrive on learning, building, and sharing knowledge, and I'm always excited to explore new technologies that push my skills further.<br><br>
+# 🔍 What I'm Looking For
+<br>Opportunities to collaborate with developers and grow together<br><br>Hands-on experience with backend technologies to level up my skills<br><br>Contributing to open-source projects and learning from real-world applications<br><br>
+# 🌱 what is the next step?:
+<br>Backend Development: Node.js, Express, and databases (MongoDB & SQL)<br><br>API Development: REST & GraphQL<br><br>Authentication & Security: JWT, OAuth, and best practices<br><br>DevOps & Deployment: Docker, CI/CD, and cloud platforms<br><br>
+# 💬 Ask Me Anything!
+<br>Need help with HTML, CSS, JavaScript,  or front-end performance optimization? I’m happy to share what I know!<br><br>
+# ⚡ Fun Fact (Motivational Edition!)
+<br>I started as a front-end developer with zero knowledge of backend development, but that didn’t stop me. Every day, I take one step closer to mastering full-stack development.<br>🚀 The secret? Keep pushing, keep learning, and never settle. If I can do it, so can you and 
+# الحمدلله على كل شيء
 
 
 ## 🌐 Socials:
