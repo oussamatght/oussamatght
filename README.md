@@ -32,6 +32,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=oussamatght&icon=6&color=4)](https://visitcount.itsvg.in)
 
-**oussamatght/oussamatght** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
