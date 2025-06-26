@@ -1,26 +1,26 @@
-💫 About Me:
-👋 Hey there! I'm Oussama Taright,
+#💫 About Me:
+#👋 Hey there! I'm Oussama Taright,
 <br>a passionate Front-End Developer 🎨 who has grown into a Full-Stack Developer with a strong focus on the MERN stack 🚀.<br><br>
 
-💻 About Me:
+#💻 About Me:
 <br>I love bringing ideas to life with clean, interactive, and responsive web designs. Now, with a solid foundation in the MERN stack (MongoDB, Express, React, Node.js), I build fully functional, scalable applications from front to back.<br><br>
 I thrive on learning, building, and sharing knowledge, and I'm always excited to explore new technologies that push my skills further.<br><br>
 
-🔍 What I'm Looking For
+#🔍 What I'm Looking For
 <br>Opportunities to collaborate with developers and grow together<br><br>Challenging full-stack projects to sharpen my skills<br><br>Contributing to open-source and working on real-world applications<br><br>
 
-🌱 My Current Stack
+#🌱 My Current Stack
 <br>Frontend: React, HTML, CSS, JavaScript<br><br>
 Backend: Node.js, Express<br><br>
 Database: MongoDB (and learning SQL)<br><br>
 Other: REST APIs, GraphQL, JWT, OAuth, Docker, CI/CD, and cloud deployment<br><br>
 
-💬 Ask Me Anything!
+#💬 Ask Me Anything!
 <br>Need help with React, JavaScript, HTML/CSS, or full-stack development using MERN? I’m happy to help and learn together!<br><br>
 
-⚡ Fun Fact (Motivational Edition!)
+#⚡ Fun Fact (Motivational Edition!)
 <br>I started with front-end only, but I challenged myself to become a full-stack developer — and today, I build complete apps using the MERN stack.<br>
-🚀 The secret? Stay curious, be consistent, and never stop learning.
+#🚀 The secret? Stay curious, be consistent, and never stop learning.
 <br>الحمد لله على كل شيء
 
 
