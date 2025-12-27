@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Oussama%20Taright&fontAlign=50&fontAlignY=40&color=gradient&desc=Full%20Stack%20Developer&descAlign=50&descAlignY=65" alt="header" />
 
 <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Oussama%20Taright&width=1200&height=200" alt="3d-banner" />
 
