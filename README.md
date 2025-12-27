@@ -1,9 +1,72 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Oussama%20Taright&fontAlign=50&fontAlignY=40&color=gradient&desc=Full%20Stack%20Developer&descAlign=50&descAlignY=65" alt="header" />
 
 <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Oussama%20Taright&width=1200&height=200" alt="3d-banner" />
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Building+Scalable+Apps;Open+Source+Contributor;Always+Learning&center=true&width=600&height=45&duration=3000" alt="typing" />
+<!-- 3D Isometric Store/Game Banner -->
+<svg width="100%" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="3D isometric store and game banner">
+	<defs>
+		<linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+			<stop offset="0%" stop-color="#7C3AED" />
+			<stop offset="50%" stop-color="#06B6D4" />
+			<stop offset="100%" stop-color="#22C55E" />
+		</linearGradient>
+		<filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+			<feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#00000055" />
+		</filter>
+	</defs>
+	<rect x="0" y="0" width="1200" height="220" fill="#0B1221" />
+	<!-- Title -->
+	<text x="50%" y="52" text-anchor="middle" fill="url(#grad)" font-size="28" font-weight="700" font-family="Segoe UI, Roboto, Arial">
+		Shop • Play • Build
+	</text>
+	<!-- Isometric cubes group -->
+	<g transform="translate(300,120)" filter="url(#shadow)">
+		<g>
+			<!-- cube 1 -->
+			<polygon points="0,-40 35,-20 35,20 0,40 -35,20 -35,-20" fill="#1F2937" stroke="#94A3B8" stroke-width="1" />
+			<g>
+				<polygon points="0,-40 35,-20 0,0 -35,-20" fill="#0EA5E9" opacity="0.9" />
+				<polygon points="-35,-20 0,0 0,40 -35,20" fill="#22C55E" opacity="0.9" />
+				<polygon points="35,-20 0,0 0,40 35,20" fill="#F59E0B" opacity="0.9" />
+			</g>
+			<animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="12s" repeatCount="indefinite" />
+		</g>
+	</g>
+	<g transform="translate(600,120)" filter="url(#shadow)">
+		<g>
+			<!-- cube 2 -->
+			<polygon points="0,-40 35,-20 35,20 0,40 -35,20 -35,-20" fill="#111827" stroke="#6B7280" stroke-width="1" />
+			<g>
+				<polygon points="0,-40 35,-20 0,0 -35,-20" fill="#7C3AED" opacity="0.9" />
+				<polygon points="-35,-20 0,0 0,40 -35,20" fill="#06B6D4" opacity="0.9" />
+				<polygon points="35,-20 0,0 0,40 35,20" fill="#EF4444" opacity="0.9" />
+			</g>
+			<animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="14s" repeatCount="indefinite" />
+		</g>
+	</g>
+	<g transform="translate(900,120)" filter="url(#shadow)">
+		<g>
+			<!-- cube 3 -->
+			<polygon points="0,-40 35,-20 35,20 0,40 -35,20 -35,-20" fill="#0F172A" stroke="#64748B" stroke-width="1" />
+			<g>
+				<polygon points="0,-40 35,-20 0,0 -35,-20" fill="#22C55E" opacity="0.9" />
+				<polygon points="-35,-20 0,0 0,40 -35,20" fill="#0EA5E9" opacity="0.9" />
+				<polygon points="35,-20 0,0 0,40 35,20" fill="#F59E0B" opacity="0.9" />
+			</g>
+			<animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="10s" repeatCount="indefinite" />
+		</g>
+	</g>
+	<!-- Icons: store and gamepad -->
+	<text x="200" y="180" font-size="28">🏪</text>
+	<text x="980" y="180" font-size="28">🎮</text>
+	<text x="50%" y="194" text-anchor="middle" fill="#CBD5E1" font-size="14" font-family="Segoe UI, Roboto, Arial">
+		3D vibes • Isometric cubes • Real-time experiences
+	</text>
+</svg>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Shop+%7C+Play+%7C+Build;Real-time+Experiences;Full-Stack+Developer;Always+Learning&center=true&width=600&height=45&duration=3000" alt="typing" />
 
 <br/>
 
