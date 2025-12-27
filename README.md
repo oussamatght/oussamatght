@@ -66,6 +66,22 @@
 	</text>
 </svg>
 
+<!-- Press Start HUD -->
+<svg width="100%" height="80" viewBox="0 0 1200 80" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Game HUD">
+	<rect x="0" y="0" width="1200" height="80" fill="#0B1221" />
+	<!-- Hearts -->
+	<text x="24" y="50" font-size="28">❤️ ❤️ ❤️</text>
+	<!-- Coins -->
+	<text x="200" y="50" font-size="24">🪙 x 99</text>
+	<!-- XP Bar -->
+	<rect x="340" y="30" rx="8" ry="8" width="520" height="20" fill="#1F2937" stroke="#334155" />
+	<rect x="342" y="32" rx="6" ry="6" width="360" height="16" fill="url(#grad)" />
+	<text x="880" y="46" font-size="16" fill="#93C5FD" font-family="Segoe UI">XP 72%</text>
+	<!-- Press Start -->
+	<text x="1040" y="50" font-size="20" fill="#FDE68A" font-family="'Segoe UI', Roboto" text-anchor="start">PRESS START ▸</text>
+	<animate attributeName="opacity" values="1;0.7;1" dur="2s" repeatCount="indefinite" />
+</svg>
+
 <img src="https://readme-typing-svg.demolab.com/?lines=Shop+%7C+Play+%7C+Build;Real-time+Experiences;Full-Stack+Developer;Always+Learning&center=true&width=600&height=45&duration=3000" alt="typing" />
 
 <br/>
@@ -79,18 +95,18 @@
 
 ---
 
-## 🚀 About Me
+## 🎮 Quest Log
 
-I'm a **Full-Stack Developer** specialized in building end-to-end web applications. With expertise in **Next.js, TypeScript, Express, and MongoDB**, I create responsive, scalable solutions that solve real-world problems.
+Leveling up full‑stack builds with real‑time features.
 
-- 💻 **Current Focus**: Real-time apps (WebSocket), mobile-first design
-- 🎓 **Education**: L2 Computer Science Student @ USTHB
-- 🏆 **Specialty**: Full-stack development, system design, scalable architectures
-- 🌱 **Learning**: Advanced TypeScript, microservices, cloud deployment
+- 🎯 Current quest: WebSocket experiences, mobile‑first UI
+- 📚 Study: L2 Computer Science @ USTHB
+- 🏆 Focus: System design, scalable architectures
+- ⚡ Next skill: Advanced TypeScript, microservices, cloud
 
 ---
 
-## 🧰 Tech Stack
+## 🧩 Skill Tree
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -127,7 +143,7 @@ I'm a **Full-Stack Developer** specialized in building end-to-end web applicatio
 
 ---
 
-## 📊 GitHub Stats
+## 🏁 Leaderboard
 
 <div align="center">
 
@@ -151,7 +167,7 @@ I'm a **Full-Stack Developer** specialized in building end-to-end web applicatio
 
 ---
 
-## 🎯 Core Strengths
+## 🔧 Power-Ups
 
 - ✅ Full-Stack: from UI to API
 - ✅ Real-Time Systems: WebSocket, live updates
