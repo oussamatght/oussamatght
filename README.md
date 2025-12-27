@@ -1,19 +1,134 @@
-# 💫 About Me
-👋 Hi, I’m Oussama Taright, a Full-Stack Developer and L2 Computer Science student at USTHB. I build modern web and mobile apps using Next.js, TypeScript, Express, MongoDB, PostgreSQL, Tailwind CSS, and React Native, delivering responsive and scalable solutions.
-💻 I enjoy designing clean architectures, building end-to-end applications, and exploring new technologies to refine my skills.
+# 👋 Hey there! I'm Oussama Taright
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/oussamatght) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/oussama_soul_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tarightoussama) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oussamatght6@gmail.com) 
+<div align="center">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+**Full-Stack Developer | L2 Computer Science Student @ USTHB**
 
+Building scalable web & mobile applications with modern technologies.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=oussamatght&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=oussamatght&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=oussamatght&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[Discord](https://discord.gg/oussamatght) • [LinkedIn](https://linkedin.com/in/tarightoussama) • [Instagram](https://instagram.com/oussama_soul_) • [Email](mailto:oussamatght6@gmail.com)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=oussamatght&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🚀 About Me
+
+I'm a passionate **Full-Stack Developer** specialized in building end-to-end web applications. With expertise in **Next.js, TypeScript, Express, and MongoDB**, I create responsive, scalable solutions that solve real-world problems.
+
+- 💻 **Current Focus**: Building modern real-time applications with WebSocket, mobile-first design
+- 🎓 **Education**: L2 Computer Science Student at USTHB
+- 🏆 **Specialty**: Full-stack development, system design, scalable architectures
+- 🌱 **Learning**: Advanced TypeScript patterns, microservices, cloud deployment
+
+---
+
+## 💼 Featured Projects
+
+### 🛒 **ChoufPrice DZ Platform**
+
+Real-time price tracking platform for Algerian markets with community chat
+
+**Tech Stack**: Next.js 16 • TypeScript • Express • MongoDB • WebSocket • Tailwind CSS • Leaflet Maps
+
+**Features**:
+
+- 🗺️ Interactive map with price locations (Leaflet + MarkerCluster)
+- 💬 Real-time community chat with WebSocket
+- 🌍 Multi-language support (Arabic, French, English) with full RTL support
+- 🎨 Dark/Light theme toggle
+- 📊 Live price tracking & anomaly detection
+- 🔐 JWT authentication system
+
+[View Repository](https://github.com/oussamatght/ChoufPrice-DZ-Platform)
+
+---
+
+## 💻 Tech Stack
+
+### **Frontend**
+
+![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### **Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-Real--Time-blue?style=flat-square)
+
+### **DevOps & Tools**
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### **Other Skills**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![OCaml](https://img.shields.io/badge/OCaml-E98407?style=flat-square&logo=ocaml&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oussamatght&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=oussamatght&theme=vue-dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oussamatght&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+
+## 🎯 Core Competencies
+
+- ✅ **Full-Stack Development**: Designing and building complete web applications
+- ✅ **Real-Time Systems**: WebSocket integration, live updates, event handling
+- ✅ **Mobile-First Design**: Responsive layouts, cross-browser compatibility
+- ✅ **Database Design**: Schema modeling, optimization, data persistence
+- ✅ **API Development**: RESTful APIs, JWT authentication, error handling
+- ✅ **Internationalization**: Multi-language support, RTL/LTR layouts
+- ✅ **Deployment**: Cloud platforms (Vercel, Render), CI/CD pipelines
+- ✅ **Problem Solving**: Algorithm design, system architecture, debugging
+
+---
+
+## 🌱 What I'm Currently Working On
+
+- 🚀 Scaling real-time applications with WebSocket & load balancing
+- 📱 Exploring React Native for mobile development
+- ☁️ Learning advanced cloud deployment & microservices
+- 🔐 Deepening knowledge in security best practices & authentication
+
+---
+
+## 📫 Let's Connect!
+
+I'm open to collaborations, freelance projects, and discussions about web development.
+
+- 💼 **LinkedIn**: [tarightoussama](https://linkedin.com/in/tarightoussama)
+- 📧 **Email**: [oussamatght6@gmail.com](mailto:oussamatght6@gmail.com)
+- 💬 **Discord**: [oussamatght](https://discord.gg/oussamatght)
+- 📸 **Instagram**: [@oussama*soul*](https://instagram.com/oussama_soul_)
+
+---
+
+<div align="center">
+
+### 💡 _"Code is not just syntax; it's a solution to real-world problems"_
+
+![Profile Views](https://visitcount.itsvg.in/api?id=oussamatght&icon=2&color=12)
+
+</div>
