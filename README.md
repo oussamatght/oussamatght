@@ -2,7 +2,7 @@
 <p align="center">Full-Stack Developer · L2 Computer Science @ USTHB</p>
 
 <p align="center">
-	<img src="./hero.svg" alt="3D ambient header" width="100%" />
+	<img src="./pixel-header.svg" alt="Animated pixel header" width="100%" />
 </p>
 
 ## 💫 About
