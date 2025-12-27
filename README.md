@@ -1,169 +1,28 @@
-<div align="center">
+<h1 align="center">Oussama Taright</h1>
 
-<!-- Animated 3D Hero Banner -->
-<img src="https://svg-banners.vercel.app/api?type=glitch&text1=Oussama%20Taright&width=1200&height=200" alt="glitch-banner" />
+## 💫 About Me
 
-<!-- Interactive 3D Isometric Scene with Game Elements (external SVG to avoid GitHub sanitizing inline SVG) -->
-<img src="./hero.svg" alt="Interactive 3D gaming scene" width="100%" />
+👋 Hi, I’m Oussama Taright, a Full-Stack Developer and L2 Computer Science student at USTHB. I build modern web and mobile apps using Next.js, TypeScript, Express, MongoDB, PostgreSQL, Tailwind CSS, and React Native, delivering responsive and scalable solutions.
 
-<!-- Premium Game HUD (external to avoid inline SVG sanitization) -->
-<img src="./hud.svg" alt="Game HUD" width="100%" />
+💻 I enjoy designing clean architectures, building end-to-end applications, and exploring new technologies to refine my skills.
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com/?lines=🎯+Full-Stack+Developer;⚡+Real-Time+Systems+Expert;🚀+UI/UX+Enthusiast;💎+Clean+Code+Advocate;🔥+Problem+Solver;🌟+Always+Learning&center=true&width=800&height=50&duration=3000&pause=1000&color=06B6D4&vCenter=true&size=24&weight=600" alt="typing-animation" />
+## 🌐 Socials
 
-<br/>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/oussamatght)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/oussama_soul_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tarightoussama)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oussamatght6@gmail.com)
 
-<!-- Social Badges with Glow Effect -->
+## 💻 Tech Stack
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/oussamatght)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tarightoussama)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/oussama_soul_)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oussamatght6@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](#)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-</div>
+## 📊 GitHub Stats
 
----
-
-## 🎮 MINI GAME: Code Quest Challenge
-
-<details>
-<summary>🕹️ <b>CLICK TO PLAY</b> - Test Your Developer Skills!</summary>
-
-<br/>
-
-### 🎯 Mission Objectives
-
-- Level 1: Fix Bugs
-  - [ ] Polish README visuals and layout
-  - [ ] Push clean, meaningful commits
-  - [ ] Lint and format code
-- Level 2: Ship Features
-  - [ ] Add i18n (Arabic, French, English)
-  - [ ] Implement real-time chat (WebSocket)
-  - [ ] Dark/Light theme toggle
-- Boss Fight: Deploy
-  - [ ] Frontend on Vercel
-  - [ ] Backend on Render
-  - [ ] Configure env vars (HTTP/WS)
-
-### ⚙️ Controls
-
-- Start: Click badges and explore projects
-- Move: Scroll through sections (Quest Log, Skill Tree, Leaderboard)
-- Action: Star repos, fork, and contribute
-
-### 🏆 Rewards
-
-- +100 XP: Every merged PR
-- +50 XP: Each useful issue or discussion
-- +10 XP: Daily commits streak
-
-</details>
+![](https://github-readme-stats.vercel.app/api?username=oussamatght&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=oussamatght&theme=vue-dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=oussamatght&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
-## 🎮 Quest Log
-
-Leveling up full‑stack builds with real‑time features.
-
-- 🎯 Current quest: WebSocket experiences, mobile‑first UI
-- 📚 Study: L2 Computer Science @ USTHB
-- 🏆 Focus: System design, scalable architectures
-- ⚡ Next skill: Advanced TypeScript, microservices, cloud
-
----
-
-## 🧩 Skill Tree
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%23BBDEAD)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-## 🏁 Leaderboard
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=oussamatght&theme=dark&hide_border=true&include_all_commits=false&count_private=false" height="140" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=oussamatght&theme=dark&hide_border=true" height="140" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamatght&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="140" />
-
-</div>
-
----
-
-## 🏆 Achievements & Activity
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=oussamatght&theme=onedark&margin-w=10&margin-h=10&column=6" alt="trophies" />
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?user=oussamatght" alt="snake" />
-
-</div>
-
----
-
-## 🔧 Power-Ups
-
-- ✅ Full-Stack: from UI to API
-- ✅ Real-Time Systems: WebSocket, live updates
-- ✅ Responsive Design: mobile-first, RTL/LTR
-- ✅ Data & Auth: schema modeling, JWT
-- ✅ Deployment: Vercel/Render, CI/CD
-- ✅ Problem Solving: architecture, debugging
-
----
-
-## 📫 Let's Connect
-
-I'm open to collaborations, internships, and freelance opportunities.
-
-- 💼 LinkedIn: [tarightoussama](https://linkedin.com/in/tarightoussama)
-- 📧 Email: [oussamatght6@gmail.com](mailto:oussamatght6@gmail.com)
-- 💬 Discord: [oussamatght](https://discord.gg/oussamatght)
-- 📸 Instagram: [@oussama*soul*](https://instagram.com/oussama_soul_)
-
-<div align="center">
-
-✨ _"Code is a solution to real-world problems"_ ✨
-
-![Profile Views](https://visitcount.itsvg.in/api?id=oussamatght&icon=0&color=0)
-
-</div>
 
 [![](https://visitcount.itsvg.in/api?id=oussamatght&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
