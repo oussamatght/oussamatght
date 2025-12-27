@@ -6,51 +6,8 @@
 <!-- Interactive 3D Isometric Scene with Game Elements (external SVG to avoid GitHub sanitizing inline SVG) -->
 <img src="./hero.svg" alt="Interactive 3D gaming scene" width="100%" />
 
-<!-- Premium Game HUD -->
-<svg width="100%" height="100" viewBox="0 0 1200 100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Professional Game HUD">
-	<defs>
-		<linearGradient id="hudGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-			<stop offset="0%" stop-color="#1a1f35" />
-			<stop offset="50%" stop-color="#0B1221" />
-			<stop offset="100%" stop-color="#1a1f35" />
-		</linearGradient>
-		<linearGradient id="xpBar" x1="0%" y1="0%" x2="100%" y2="0%">
-			<stop offset="0%" stop-color="#06B6D4" />
-			<stop offset="50%" stop-color="#7C3AED" />
-			<stop offset="100%" stop-color="#EF4444" />
-		</linearGradient>
-	</defs>
-    
-	<rect x="0" y="0" width="1200" height="100" fill="url(#hudGrad)" />
-	<rect x="10" y="10" width="1180" height="80" fill="#0B1221" stroke="#374151" stroke-width="2" rx="8" />
-    
-	<!-- Health/Status -->
-	<g transform="translate(30, 35)">
-		<text x="0" y="20" font-size="16" fill="#94A3B8" font-weight="600">STATUS</text>
-		<text x="0" y="42" font-size="32">❤️ ❤️ ❤️</text>
-	</g>
-    
-	<!-- Resources -->
-	<g transform="translate(200, 35)">
-		<text x="0" y="20" font-size="16" fill="#94A3B8" font-weight="600">COMMITS</text>
-		<text x="0" y="45" font-size="28" fill="#FDE68A">⭐ x 500+</text>
-	</g>
-    
-	<!-- XP Progress Bar -->
-	<g transform="translate(400, 35)">
-		<text x="0" y="20" font-size="16" fill="#94A3B8" font-weight="600">EXPERIENCE</text>
-		<rect x="0" y="25" rx="10" ry="10" width="450" height="28" fill="#1F2937" stroke="#374151" stroke-width="2" />
-		<rect x="3" y="28" rx="8" ry="8" width="380" height="22" fill="url(#xpBar)" />
-		<text x="225" y="45" text-anchor="middle" font-size="14" fill="white" font-weight="700">LEVEL 99 • 84% TO MAX</text>
-	</g>
-    
-	<!-- Action Button -->
-	<g transform="translate(920, 35)">
-		<rect x="0" y="15" rx="12" ry="12" width="240" height="40" fill="#7C3AED" stroke="#9333EA" stroke-width="2" filter="url(#glow)" />
-		<text x="120" y="42" text-anchor="middle" font-size="18" fill="white" font-weight="700">▶ START GAME</text>
-		<animate attributeName="opacity" values="1;0.7;1" dur="1.5s" repeatCount="indefinite" />
-	</g>
-</svg>
+<!-- Premium Game HUD (external to avoid inline SVG sanitization) -->
+<img src="./hud.svg" alt="Game HUD" width="100%" />
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com/?lines=🎯+Full-Stack+Developer;⚡+Real-Time+Systems+Expert;🚀+UI/UX+Enthusiast;💎+Clean+Code+Advocate;🔥+Problem+Solver;🌟+Always+Learning&center=true&width=800&height=50&duration=3000&pause=1000&color=06B6D4&vCenter=true&size=24&weight=600" alt="typing-animation" />
