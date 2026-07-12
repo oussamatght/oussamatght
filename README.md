@@ -1,6 +1,6 @@
 <!-- 3D Animated Header -->
 <p align="center">
-  <img src="./assets/3d-header.svg" alt="3D animated header" width="100%" />
+  <img src="./assets/pixel-header.svg" alt="3D animated header" width="100%" />
 </p>
 
 # 💫 About Me
