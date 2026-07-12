@@ -41,6 +41,4 @@
   <img src="./assets/pixel-divider.svg" alt="divider" width="100%" height="16" />
 </p>
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=oussamatght&icon=0&color=0" alt="visit count" /></a>
-</p>
+
