@@ -86,8 +86,10 @@ I design clean architectures, build end-to-end web & mobile products, and enjoy 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=oussamatght&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamatght&theme=vue-dark&hide_border=true&layout=compact" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=oussamatght&theme=vue-dark&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=oussamatght&theme=algolia&no-frame=true&margin-w=8&row=1" />
 </p>
 
 <p align="center">
