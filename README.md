@@ -1,26 +1,42 @@
-
-<!-- Pixel Animated Header -->
-
+<!-- ==================== HEADER ==================== -->
 <p align="center">
   <img src="assets/pixel-header (1).svg" alt="pixel animated header" width="100%" />
 </p>
 
-<!-- Terminal Loader -->
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00F6FF&height=180&section=header&text=Oussama%20Taright&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Next.js%20%C2%B7%20TypeScript%20%C2%B7%20React%20Native&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="3d wave banner" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2500&pause=800&color=00F6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Next.js+%7C+TypeScript+%7C+React+Native;Building+clean%2C+scalable+apps" alt="typing animation" />
 </p>
 
 <p align="center">
+  <a href="https://linkedin.com/in/tarightoussama"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:oussamatght6@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://discord.gg/oussamatght"><img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://instagram.com/oussama_soul_"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+<p align="center">
   <img src="./assets/pixel-divider.svg" alt="divider" width="100%" height="16" />
 </p>
 
-# 💫 About Me
+<!-- ==================== ABOUT ==================== -->
+## 🧑‍🚀 About Me
 
-👋 Hi, I'm **Oussama Taright**, a Full-Stack Developer and Computer Science student at USTHB. I build modern web and mobile apps using Next.js, TypeScript, Express, MongoDB, PostgreSQL, Tailwind CSS, and React Native, delivering responsive and scalable solutions.
+```txt
+const oussamaTaright = {
+    role: "Full-Stack Developer",
+    education: "Computer Science Student @ USTHB",
+    stack: ["Next.js", "TypeScript", "React Native", "Express", "MongoDB", "PostgreSQL", "Tailwind CSS"],
+    focus: "Clean architecture, end-to-end apps, scalable UI",
+    currentlyExploring: "New tools & patterns to level up shipping speed",
+};
+```
 
-💻 I enjoy designing clean architectures, building end-to-end applications, and exploring new technologies to refine my skills.
+I design clean architectures, build end-to-end web & mobile products, and enjoy turning rough ideas into polished, production-ready apps.
+
 <p align="center">
   <img src="./assets/terminal-loader.svg" alt="Terminal loading animation" width="500" />
 </p>
@@ -29,58 +45,89 @@
   <img src="./assets/pixel-divider.svg" alt="divider" width="100%" height="16" />
 </p>
 
-## 🌐 Socials
+<!-- ==================== TECH STACK ==================== -->
+## 🛠️ Tech Stack
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/oussamatght)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/oussama_soul_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tarightoussama)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oussamatght6@gmail.com)
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java,python,js,ts,ocaml" />
+</p>
 
-## 💻 Tech Stack
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,react,nextjs,redux,tailwind,vite" />
+</p>
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+**Backend & Data**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
+</p>
+
+**Tools & Deployment**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,powershell,vscode" />
+</p>
 
 <p align="center">
   <img src="./assets/pixel-divider.svg" alt="divider" width="100%" height="16" />
 </p>
 
-## 📊 GitHub Stats
+<!-- ==================== 3D CONTRIBUTION GRAPH ==================== -->
+## 🧊 3D Contribution Graph
 
-![](https://github-readme-stats.vercel.app/api?username=oussamatght&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/oussamatght/oussamatght/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="90%" />
+</p>
 
-<br/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=oussamatght&theme=vue-dark&hide_border=false)
-
-<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=oussamatght&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+> 📌 This graph is generated by [`yoshi389111/github-profile-3d-contrib`](https://github.com/yoshi389111/github-profile-3d-contrib). Add the GitHub Action from that repo to this profile repository so it auto-updates daily — until then, this image link will show as broken.
 
 <p align="center">
   <img src="./assets/pixel-divider.svg" alt="divider" width="100%" height="16" />
+</p>
+
+<!-- ==================== STATS ==================== -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=oussamatght&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamatght&theme=vue-dark&hide_border=true&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=oussamatght&theme=vue-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=oussamatght&theme=algolia&no-frame=true&margin-w=8&row=1" />
+</p>
+
+<p align="center">
+  <img src="./assets/pixel-divider.svg" alt="divider" width="100%" height="16" />
+</p>
+
+<!-- ==================== FEATURED PROJECTS ==================== -->
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/oussamatght">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=oussamatght&repo=REPLACE_WITH_REPO_1&theme=vue-dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/oussamatght">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=oussamatght&repo=REPLACE_WITH_REPO_2&theme=vue-dark&hide_border=true" />
+  </a>
+</p>
+
+> ✏️ Swap `REPLACE_WITH_REPO_1` / `REPLACE_WITH_REPO_2` for your two strongest repo names to pin them here.
+
+<p align="center">
+  <img src="./assets/pixel-divider.svg" alt="divider" width="100%" height="16" />
+</p>
+
+<!-- ==================== FOOTER ==================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F6FF,100:0F2027&height=120&section=footer" width="100%" alt="footer wave" />
+</p>
+
+<p align="center">
+  <sub>⭐ Thanks for stopping by — feel free to explore my repos and connect!</sub>
 </p>
