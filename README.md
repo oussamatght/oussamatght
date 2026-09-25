@@ -2,14 +2,11 @@
 <!-- Pixel Animated Header -->
 
 <p align="center">
-  <img src="./assets/pixel-header.svg" alt="pixel animated header" width="100%" />
+  <img src="./assets/pixel-header(1).svg" alt="pixel animated header" width="100%" />
 </p>
 
 <!-- Terminal Loader -->
 
-<p align="center">
-  <img src="./assets/terminal-loader.svg" alt="Terminal loading animation" width="500" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2500&pause=800&color=00F6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Next.js+%7C+TypeScript+%7C+React+Native;Building+clean%2C+scalable+apps" alt="typing animation" />
@@ -24,6 +21,9 @@
 👋 Hi, I'm **Oussama Taright**, a Full-Stack Developer and Computer Science student at USTHB. I build modern web and mobile apps using Next.js, TypeScript, Express, MongoDB, PostgreSQL, Tailwind CSS, and React Native, delivering responsive and scalable solutions.
 
 💻 I enjoy designing clean architectures, building end-to-end applications, and exploring new technologies to refine my skills.
+<p align="center">
+  <img src="./assets/terminal-loader.svg" alt="Terminal loading animation" width="500" />
+</p>
 
 <p align="center">
   <img src="./assets/pixel-divider.svg" alt="divider" width="100%" height="16" />
