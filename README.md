@@ -211,13 +211,7 @@ const oussamaTaright = {
 
 ## 🧊 3D Contribution Universe
 
-<p align="center">
-  <img
-    src="./profile-3d-contrib/profile-night-rainbow.svg"
-    alt="3D GitHub contribution graph"
-    width="95%"
-  />
-</p>
+<p align="center"> <img src="./profile-3d-contrib/profile-green-animate.svg" alt="GitHub contribution activity" width="95%" /> </p>
 
 <p align="center">
   <sub>
@@ -613,14 +607,7 @@ Modern Web Development
   </a>
 </p>
 
-<p align="center">
-  <img
-    src="./assets/pixel-divider.svg"
-    alt="divider"
-    width="100%"
-    height="16"
-  />
-</p>
+
 
 
 <p align="center">
