@@ -2,7 +2,7 @@
 <!-- Pixel Animated Header -->
 
 <p align="center">
-  <img src="./assets/pixel-header(1).svg" alt="pixel animated header" width="100%" />
+  <img src="assets/pixel-header (1).svg" alt="pixel animated header" width="100%" />
 </p>
 
 <!-- Terminal Loader -->
