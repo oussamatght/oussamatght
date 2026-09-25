@@ -11,7 +11,7 @@
 <p align="center">
   <img
     src="./assets/pixel-header%20(1).svg"
-    alt="Oussama Taright pixel header"
+    alt="Oussama Taright Pixel Header"
     width="100%"
   />
 </p>
@@ -24,21 +24,42 @@
 </p>
 
 <p align="center">
+
   <a href="https://github.com/oussamatght">
-    <img src="https://img.shields.io/badge/GitHub-oussamatght-111827?style=for-the-badge&logo=github&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/GitHub-oussamatght-111827?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
+
   <a href="https://linkedin.com/in/tarightoussama">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
+
   <a href="mailto:oussamatght6@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
+
   <a href="https://discord.gg/oussamatght">
-    <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+      alt="Discord"
+    />
   </a>
+
   <a href="https://instagram.com/oussama_soul_">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
   </a>
+
 </p>
 
 <p align="center">
@@ -70,6 +91,7 @@ const oussamaTaright = {
   backend: [
     "Node.js",
     "Express.js",
+    "NestJS",
     "REST APIs"
   ],
 
@@ -81,12 +103,13 @@ const oussamaTaright = {
   ],
 
   currentlyLearning: [
-    "NestJS",
     "Docker",
     "Linux",
     "AWS",
     "DevOps",
-    "AI Integration"
+    "AI Integration",
+    "LLMs",
+    "RAG"
   ],
 
   interests: [
@@ -109,38 +132,9 @@ const oussamaTaright = {
   />
 </p>
 
-<!-- ======================= CURRENTLY ======================= -->
+<!-- ======================= CURRENT MISSION ================= -->
 
-## ⚡ Currently Building & Learning
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                    CURRENT MISSION                          │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  ███████████████████░░░░░░  Full-Stack Development         │
-│                                                             │
-│  ████████████████░░░░░░░░░  Backend Engineering             │
-│                                                             │
-│  █████████████░░░░░░░░░░░░  Docker + Linux                  │
-│                                                             │
-│  ██████████░░░░░░░░░░░░░░░  Cloud + DevOps                  │
-│                                                             │
-│  ████████░░░░░░░░░░░░░░░░░  AI Integration                  │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-### 🎯 Current Focus
-
-* 🧠 TypeScript & advanced frontend architecture
-* ⚛️ Next.js + React ecosystem
-* 📱 React Native / Expo
-* 🚀 Node.js / NestJS backend development
-* 🗄️ PostgreSQL + MongoDB + Redis
-* 🐳 Docker & Linux
-* ☁️ Cloud & DevOps
-* 🤖 LLMs, RAG & AI-powered applications
 
 <p align="center">
   <img
@@ -158,37 +152,55 @@ const oussamaTaright = {
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,c,ocaml" />
+  <img
+    src="https://skillicons.dev/icons?i=ts,js,python,java,c,ocaml"
+    alt="Programming languages"
+  />
 </p>
 
 ### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind,vite" />
+  <img
+    src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind,vite"
+    alt="Frontend technologies"
+  />
 </p>
 
 ### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+  <img
+    src="https://skillicons.dev/icons?i=nodejs,express,nestjs"
+    alt="Backend technologies"
+  />
 </p>
 
 ### 🗄️ Databases & Storage
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
+  <img
+    src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis"
+    alt="Databases"
+  />
 </p>
 
 ### 📱 Mobile
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,androidstudio" />
+  <img
+    src="https://skillicons.dev/icons?i=react,androidstudio"
+    alt="Mobile technologies"
+  />
 </p>
 
 ### 🐳 DevOps & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vercel,netlify,vscode,powershell" />
+  <img
+    src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vercel,netlify,vscode,powershell"
+    alt="DevOps and tools"
+  />
 </p>
 
 <p align="center">
@@ -213,7 +225,9 @@ const oussamaTaright = {
 </p>
 
 <p align="center">
-  <sub>Generated automatically from my GitHub contribution activity.</sub>
+  <sub>
+    ⚡ Automatically generated from GitHub contribution activity.
+  </sub>
 </p>
 
 <p align="center">
@@ -225,41 +239,30 @@ const oussamaTaright = {
   />
 </p>
 
-<!-- ======================= GITHUB STATS ==================== -->
+<!-- ======================= GITHUB ANALYTICS ================= -->
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    src="./stats/github-stats.svg"
-    alt="GitHub statistics"
-    width="49%"
-  />
-  <img
-    src="./stats/top-languages.svg"
-    alt="Top programming languages"
-    width="49%"
-  />
+
+<img
+ src="./stats/github-stats.svg"
+ alt="GitHub Statistics"
+ width="48%"
+/>
+
+<img
+ src="./stats/top-languages.svg"
+ alt="Top Programming Languages"
+ width="48%"
+/>
+
 </p>
 
 <p align="center">
-  <img
-    src="https://nirzak-streak-stats.vercel.app/?user=oussamatght&theme=vue-dark&hide_border=true"
-    alt="GitHub contribution streak"
-    width="70%"
-  />
-</p>
-
-<!-- ======================= TROPHIES ======================== -->
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=oussamatght&theme=algolia&no-frame=true&margin-w=8&row=1&column=7"
-    alt="GitHub trophies"
-    width="95%"
-  />
+  <sub>
+    Generated automatically with GitHub Actions.
+  </sub>
 </p>
 
 <p align="center">
@@ -275,26 +278,83 @@ const oussamaTaright = {
 
 ## 🚀 Featured Projects
 
-<p align="center">
+### 🛒 WASSLA
 
-  <a href="https://github.com/oussamatght/wassel-APP">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=oussamatght&repo=wassel-APP&theme=vue-dark&hide_border=true"
-      alt="WASSLA project"
-    />
-  </a>
-
-  <a href="https://github.com/oussamatght/islamic-library-shamela">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=oussamatght&repo=islamic-library-shamela&theme=vue-dark&hide_border=true"
-      alt="Islamic Library project"
-    />
-  </a>
-
+<p>
+  <b>Full-Stack Marketplace & Delivery Platform</b>
 </p>
 
+```text
+React Native
+Expo
+Node.js
+Express.js
+MongoDB
+Socket.io
+Firebase
+Cloudinary
+REST APIs
+```
 
+<p>
+  <a href="https://github.com/oussamatght/wassel-APP">
+    <img
+      src="https://img.shields.io/badge/VIEW%20PROJECT-00F6FF?style=for-the-badge&logo=github&logoColor=black"
+      alt="View WASSLA project"
+    />
+  </a>
+</p>
 
+### 📚 Islamic Library
+
+<p>
+  <b>Modern Islamic Content & Learning Application</b>
+</p>
+
+```text
+React Native
+Expo
+TypeScript
+Zustand
+React Query
+Quran
+Hadith
+Adhkar
+API Integration
+```
+
+<p>
+  <a href="https://github.com/oussamatght/islamic-library-shamela">
+    <img
+      src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"
+      alt="View Islamic Library project"
+    />
+  </a>
+</p>
+
+### 📋 Task Manager
+
+<p>
+  <b>Modern Task Management Application</b>
+</p>
+
+```text
+Next.js
+TypeScript
+React
+Zustand
+React Query
+Zod
+```
+
+<p>
+  <a href="https://github.com/oussamatght/Task-Manager">
+    <img
+      src="https://img.shields.io/badge/VIEW%20PROJECT-22C55E?style=for-the-badge&logo=github&logoColor=white"
+      alt="View Task Manager project"
+    />
+  </a>
+</p>
 
 <p align="center">
   <img
@@ -305,22 +365,65 @@ const oussamaTaright = {
   />
 </p>
 
+<!-- ======================== ROADMAP ======================== -->
 
+## 🗺️ Developer Roadmap
+
+```text
+                 FULL-STACK DEVELOPMENT
+                          │
+                          ▼
+                 BACKEND ENGINEERING
+                          │
+                          ▼
+                   DOCKER + LINUX
+                          │
+                          ▼
+                    AWS / CLOUD
+                          │
+                          ▼
+                    DEVOPS / CI-CD
+                          │
+                          ▼
+                  AI INTEGRATION
+                          │
+                    ┌─────┴─────┐
+                    ▼           ▼
+                   LLMs        RAG
+                    │           │
+                    └─────┬─────┘
+                          ▼
+                    AI AGENTS
+                          │
+                          ▼
+              AI-POWERED SOFTWARE ENGINEER
+```
 
 <p align="center">
-  <sub>Learning → Building → Testing → Shipping → Improving</sub>
+  <img
+    src="./assets/pixel-divider.svg"
+    alt="divider"
+    width="100%"
+    height="16"
+  />
 </p>
 
 <!-- ======================== ACTIVITY ======================= -->
 
-## 🔥 Contribution Activity
+## ⚡ Contribution Activity
 
 <p align="center">
   <img
-    src="./profile-3d-contrib/profile-night-view.svg"
-    alt="GitHub 3D contribution visualization"
-    width="90%"
+    src="./profile-3d-contrib/profile-green-animate.svg"
+    alt="GitHub contribution activity"
+    width="95%"
   />
+</p>
+
+<p align="center">
+  <sub>
+    Learning → Building → Testing → Shipping → Improving
+  </sub>
 </p>
 
 <p align="center">
@@ -332,29 +435,6 @@ const oussamaTaright = {
   />
 </p>
 
-<!-- ======================= CONNECT ========================= -->
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-  <a href="https://github.com/oussamatght">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="https://linkedin.com/in/tarightoussama">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:oussamatght6@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://discord.gg/oussamatght">
-    <img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-
-</p>
 
 <!-- ========================= FOOTER ======================== -->
 
@@ -368,14 +448,13 @@ const oussamaTaright = {
 </p>
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00F6FF,100:7C3AED&height=120&section=footer"
-    width="100%"
-  />
+  <sub>
+    ⚡ Build things. Learn deeply. Ship consistently.
+  </sub>
 </p>
 
 <p align="center">
   <sub>
-    ⚡ Build things. Learn deeply. Ship consistently.
+    © Oussama Taright
   </sub>
 </p>
