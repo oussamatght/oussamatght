@@ -24,10 +24,154 @@
 
 💻 I enjoy designing clean architectures, building end-to-end applications, and exploring new technologies to refine my skills.
 
-<p align="center">
-  <img src="./assets/pixel-divider.svg" alt="divider" width="100%" height="16" />
-</p>
+<svg width="600" height="180" viewBox="0 0 600 180" xmlns="http://www.w3.org/2000/svg">
 
+  <!-- Background -->
+  <rect
+    x="1"
+    y="1"
+    width="598"
+    height="178"
+    rx="10"
+    fill="#0d1117"
+    stroke="#30363d"
+    stroke-width="2"
+  />
+
+  <!-- Terminal Header -->
+  <rect
+    x="1"
+    y="1"
+    width="598"
+    height="38"
+    rx="10"
+    fill="#161b22"
+  />
+
+  <rect
+    x="1"
+    y="28"
+    width="598"
+    height="11"
+    fill="#161b22"
+  />
+
+  <!-- Window Controls -->
+  <circle cx="22" cy="20" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="20" r="6" fill="#ffbd2e"/>
+  <circle cx="66" cy="20" r="6" fill="#27c93f"/>
+
+  <!-- Terminal Title -->
+  <text
+    x="300"
+    y="25"
+    text-anchor="middle"
+    fill="#c9d1d9"
+    font-family="monospace"
+    font-size="14"
+  >
+    Status
+  </text>
+
+  <!-- Command -->
+  <text
+    x="28"
+    y="78"
+    fill="#00f6ff"
+    font-family="monospace"
+    font-size="15"
+  >
+    &gt;
+  </text>
+
+  <text
+    x="48"
+    y="78"
+    fill="#ffffff"
+    font-family="monospace"
+    font-size="15"
+  >
+    Loading
+  </text>
+
+  <!-- Animated dots -->
+  <text
+    x="120"
+    y="78"
+    fill="#00f6ff"
+    font-family="monospace"
+    font-size="15"
+  >
+    <tspan>
+      .
+      <animate
+        attributeName="opacity"
+        values="1;0;0"
+        dur="1.2s"
+        repeatCount="indefinite"
+      />
+    </tspan>
+
+    <tspan>
+      ..
+      <animate
+        attributeName="opacity"
+        values="0;1;0"
+        dur="1.2s"
+        repeatCount="indefinite"
+      />
+    </tspan>
+
+    <tspan>
+      ...
+      <animate
+        attributeName="opacity"
+        values="0;0;1"
+        dur="1.2s"
+        repeatCount="indefinite"
+      />
+    </tspan>
+  </text>
+
+  <!-- Status Message -->
+  <text
+    x="28"
+    y="112"
+    fill="#8b949e"
+    font-family="monospace"
+    font-size="13"
+  >
+    Initializing developer environment...
+  </text>
+
+  <!-- Progress -->
+  <text
+    x="28"
+    y="137"
+    fill="#00f6ff"
+    font-family="monospace"
+    font-size="13"
+  >
+    [████████████████░░░░] 80%
+  </text>
+
+  <!-- Blinking Cursor -->
+  <rect
+    x="28"
+    y="150"
+    width="8"
+    height="15"
+    fill="#00f6ff"
+  >
+    <animate
+      attributeName="opacity"
+      values="1;0;1"
+      dur="0.8s"
+      repeatCount="indefinite"
+    />
+  </rect>
+
+</svg>
 ## 🌐 Socials
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord\&logoColor=white)](https://discord.gg/oussamatght)
