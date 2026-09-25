@@ -128,32 +128,8 @@ const oussamaTaright = {
 
 <!-- ======================= CURRENT MISSION ================= -->
 
-## ⚡ Currently Building & Learning
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                    CURRENT MISSION                          │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  ████████████████████░░░░  Full-Stack Development          │
-│  █████████████████░░░░░░░  Backend Engineering              │
-│  ██████████████░░░░░░░░░░  Docker + Linux                   │
-│  ███████████░░░░░░░░░░░░░  Cloud + DevOps                   │
-│  █████████░░░░░░░░░░░░░░░  AI Integration                   │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
 
-### 🎯 Current Focus
-
-* 🧠 TypeScript & modern frontend architecture
-* ⚛️ Next.js + React ecosystem
-* 📱 React Native / Expo
-* 🚀 Node.js / NestJS backend development
-* 🗄️ PostgreSQL + MongoDB + Redis
-* 🐳 Docker & Linux
-* ☁️ AWS / Cloud / DevOps
-* 🤖 LLMs, RAG & AI-powered applications
 
 <p align="center">
   <img
@@ -646,66 +622,6 @@ Modern Web Development
   />
 </p>
 
-<!-- ======================== ROADMAP ======================== -->
-
-## 🗺️ Developer Roadmap
-
-```text
-                 FULL-STACK DEVELOPMENT
-                          │
-                          ▼
-                 BACKEND ENGINEERING
-                          │
-                          ▼
-                   DOCKER + LINUX
-                          │
-                          ▼
-                    AWS / CLOUD
-                          │
-                          ▼
-                    DEVOPS / CI-CD
-                          │
-                          ▼
-                  AI INTEGRATION
-                          │
-                    ┌─────┴─────┐
-                    ▼           ▼
-                   LLMs        RAG
-                    │           │
-                    └─────┬─────┘
-                          ▼
-                    AI AGENTS
-                          │
-                          ▼
-              AI-POWERED SOFTWARE ENGINEER
-```
-
-<p align="center">
-  <img
-    src="./assets/pixel-divider.svg"
-    alt="divider"
-    width="100%"
-    height="16"
-  />
-</p>
-
-<!-- ======================== ACTIVITY ======================= -->
-
-## ⚡ Contribution Activity
-
-<p align="center">
-  <img
-    src="./profile-3d-contrib/profile-green-animate.svg"
-    alt="GitHub contribution activity"
-    width="95%"
-  />
-</p>
-
-<p align="center">
-  <sub>
-    Learning → Building → Testing → Shipping → Improving
-  </sub>
-</p>
 
 <p align="center">
   <img
@@ -718,50 +634,10 @@ Modern Web Development
 
 <!-- ======================== CONNECT ======================== -->
 
-## 🌐 Connect With Me
-
-<p align="center">
-
-  <a href="https://github.com/oussamatght">
-    <img
-      src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
-
-  <a href="https://linkedin.com/in/tarightoussama">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="mailto:oussamatght6@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Gmail"
-    />
-  </a>
-
-  <a href="https://instagram.com/oussama_soul_">
-    <img
-      src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="Instagram"
-    />
-  </a>
-
-</p>
 
 <!-- ========================= FOOTER ======================== -->
 
-<p align="center">
-  <img
-    src="./assets/pixel-divider.svg"
-    alt="divider"
-    width="100%"
-    height="16"
-  />
-</p>
+
 
 <p align="center">
   <sub>
