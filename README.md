@@ -211,8 +211,13 @@ const oussamaTaright = {
 
 ## 🧊 3D Contribution Universe
 
-<p align="center"> <img src="./profile-3d-contrib/profile-green-animate.svg" alt="GitHub contribution activity" width="95%" /> </p>
-
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/oussamatght/oussamatght/main/profile-3d-contrib/profile-green-animate.svg"
+    alt="GitHub contribution activity"
+    width="95%"
+  />
+</p>
 <p align="center">
   <sub>
     ⚡ Automatically generated from GitHub contribution activity.
