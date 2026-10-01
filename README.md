@@ -32,7 +32,7 @@
     />
   </a>
 
-  <a href="https://linkedin.com/in/tarightoussama">
+  <a href="https://linkedin.com/in/taright-oussama">
     <img
       src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
