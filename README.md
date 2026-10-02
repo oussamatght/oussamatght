@@ -190,7 +190,12 @@ const oussamaTaright = {
 </p>
 
 ### 🐳 DevOps & Tools
-
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vercel,netlify,vscode,powershell,n8n"
+    alt="DevOps and tools"
+  />
+</p>
 <p>
   <img
     src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vercel,netlify,vscode,powershell"
@@ -623,7 +628,102 @@ Modern Web Development
     height="16"
   />
 </p>
+<!-- ======================== SAKINAH APP ==================== -->
 
+### 🌙 Sakinah — سكينة
+
+<p>
+  <b>Arabic-First Islamic Mobile App</b>
+</p>
+
+<p>
+  A free, open-source, privacy-first Islamic companion app bringing
+  Quran, prayer times, Qibla, Hadith, Adhkar, and Tasbih into one calm
+  experience. Offline-first, with no ads and no accounts.
+</p>
+
+```text
+React Native
+Expo
+Expo Router
+TypeScript
+SQLite
+AsyncStorage
+TanStack Query
+Expo Notifications
+Expo Location
+Expo Sensors
+EAS Build
+```
+
+### 📱 App Highlights
+
+```text
+Full Quran (114 Surahs) + Tafsir
+Prayer Times + Adhan Notifications
+Live Qibla Compass
+Hadith Collections
+Adhkar & Tasbih
+Daily Wird & Favorites
+Offline-First · RTL-First
+```
+
+<p>
+  <a href="https://github.com/oussamatght/Sakinah-App">
+    <img
+      src="https://img.shields.io/badge/GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Sakinah App GitHub repository"
+    />
+  </a>
+
+  <a href="https://drive.google.com/file/d/1DM0AZ6NB7lZSKehBt7mA0zKl_PRPOpIB">
+    <img
+      src="https://img.shields.io/badge/DOWNLOAD-APK-34A853?style=for-the-badge&logo=android&logoColor=white"
+      alt="Download Sakinah APK"
+    />
+  </a>
+</p>
+
+<!-- ===================== SAKINAH WEB PLUGIN ================ -->
+
+### 🕌 Sakinah Web Plugin
+
+<p>
+  <b>Web Companion for the Sakinah Ecosystem</b>
+</p>
+
+<p>
+  A modern, Arabic-first responsive website for discovering Sakinah's
+  features, with an APK download and QR install flow, an Islamic
+  library overview, and full RTL support.
+</p>
+
+```text
+React
+TypeScript
+TanStack Start
+TanStack Router
+Vite
+Nitro
+Vercel
+RTL Support
+```
+
+<p>
+  <a href="https://github.com/oussamatght/sakinah-plugin-website">
+    <img
+      src="https://img.shields.io/badge/GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Sakinah Web Plugin GitHub repository"
+    />
+  </a>
+
+  <a href="https://sakinah-plugin-website.vercel.app">
+    <img
+      src="https://img.shields.io/badge/LIVE%20DEMO-00F6FF?style=for-the-badge&logo=vercel&logoColor=black"
+      alt="Sakinah Web Plugin live demo"
+    />
+  </a>
+</p>
 <!-- ======================== CONNECT ======================== -->
 
 
