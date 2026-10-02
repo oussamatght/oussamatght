@@ -102,7 +102,8 @@ const oussamaTaright = {
     "DevOps",
     "AI Integration",
     "LLMs",
-    "RAG"
+    "RAG",
+     "n8n"
   ],
 
   interests: [
