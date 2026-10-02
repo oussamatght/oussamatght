@@ -196,12 +196,7 @@ const oussamaTaright = {
     alt="DevOps and tools"
   />
 </p>
-<p>
-  <img
-    src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vercel,netlify,vscode,powershell"
-    alt="DevOps and tools"
-  />
-</p>
+
 
 <p align="center">
   <img
