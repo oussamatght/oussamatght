@@ -193,8 +193,14 @@ const oussamaTaright = {
 ### 🐳 DevOps & Tools
 <p>
   <img
-    src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vercel,netlify,vscode,powershell,n8n"
+    src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vercel,netlify,vscode,powershell"
     alt="DevOps and tools"
+  />
+  <img
+    src="https://cdn.simpleicons.org/n8n"
+    alt="n8n"
+    width="48"
+    height="48"
   />
 </p>
 
